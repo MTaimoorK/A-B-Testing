@@ -70,3 +70,32 @@ As per the results of A/B tests, we recommend the company to keep the old page a
 ### Advantages of Bayesian over Frequentist
 - Results are more interpretable than the ones we got from the frequentist approach.
 - We can interpret results at any point during the experiment. Don't need to wait for an arbitrary "statsig."
+
+## Contributing
+
+🎉 **Feel Free to Contribute!** 🎉
+
+We welcome contributions from the community! Whether you want to report a bug, suggest an improvement, or add a new feature, your input is highly valued.
+
+### How to Contribute
+
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix (`git checkout -b feature/your-feature`).
+3. Make your changes and commit them (`git commit -am 'Add your feature'`).
+4. Push to the branch (`git push origin feature/your-feature`).
+5. Open a Pull Request.
+
+### What You Can Contribute
+
+- Reporting bugs
+- Discussing new features or improvements
+- Writing or improving documentation
+- Adding new tests or enhancing existing ones
+- Providing feedback on the project
+
+### Code of Conduct
+
+Please note that this project adheres to the [Contributor Covenant Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code.
+
+Thank you for considering contributing to our project! 🚀
+
