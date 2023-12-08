@@ -16,18 +16,8 @@ This project conducts A/B Testing for an e-commerce company, comparing the conve
 - [Advantages of Bayesian over Frequentist](#advantages-of-bayesian-over-frequentist)
 
 ## Dependencies
-
 ```python
-import pandas as pd
-import numpy as np
-import datetime
-from scipy.stats import chi2_contingency, beta
-from IPython.display import Image
-
-
-### Importing Dependencies
-
-```python
+# Importing Dependencies
 import pandas as pd
 import numpy as np
 import datetime
