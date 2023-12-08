@@ -1,10 +1,10 @@
 # _A/B Testing Project_
 
+## Author: Muhammad Taimoor Khan
+
 ## Introduction
 
 This project conducts A/B Testing for an e-commerce company, comparing the conversion rates of the old and new landing pages. Two approaches, Frequentist and Bayesian, are utilized to analyze the results.
-
-## Author: Muhammad Taimoor Khan
 
 ## Table of Contents
 
